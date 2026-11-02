@@ -86,4 +86,6 @@ npm run build
 
 여러 학교가 함께 쓰는 통합 사이트와 중앙 관리 시스템은 `collective/`에 있습니다. 실행은 `npm run dev:collective`, 검사는 `npm run test:collective`이고, 자세한 내용은 [통합 사이트 안내](collective/README.md)에 있습니다.
 
+서강대학교 전용 소개·활동·실습 자료 사이트는 **[sogang/](sogang/README.md)**에 있습니다. `npm run dev:sogang`으로 열고, `npm run test:sogang`과 `npm run build:sogang`으로 검사·빌드합니다. 기존 포털과 별도로 실행·배포됩니다.
+
 `npm run build`는 기초 틀과 기존 Workshop 2의 공개 화면 파일만 `dist/`에 모읍니다. 기존 Workshop 1 서버 예제는 `npm run test:workshop1`, `npm run build:workshop1`과 [별도 배포 안내](docs/WORKSHOP1-DEPLOYMENTS.md)를 사용합니다.
