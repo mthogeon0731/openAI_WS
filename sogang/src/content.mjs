@@ -1,7 +1,8 @@
 // 일정과 공개 링크는 확인된 내용만 넣습니다. 서강대 콘텐츠는 이 파일에서 관리합니다.
 export const site = {
   name: 'OpenAI Student Collective · Sogang',
-  description: '서강에서 AI로 배우고, 만들고, 함께 나눕니다. OpenAI Student Collective 서강대학교의 워크숍, Studio Session, 실습 자료를 만나보세요.',
+  motto: 'Turn your imagination into reality',
+  description: 'OpenAI Student Collective 서강대학교. 워크숍 일정, Studio Session, ChatGPT·Codex 실습 자료를 확인하세요.',
   url: 'https://sogang-student-collective.mt-hogeon0731.chatgpt.site',
   repository: 'https://github.com/aeron1120/openAI_WS',
   collective: 'https://student-collective.pages.dev/',

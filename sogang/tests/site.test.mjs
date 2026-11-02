@@ -5,7 +5,7 @@ import path from 'node:path';
 import { buildSite, dist } from '../scripts/build.mjs';
 import { createPreviewServer } from '../scripts/serve.mjs';
 import { esc, h } from '../src/render.mjs';
-import { events } from '../src/content.mjs';
+import { events, site } from '../src/content.mjs';
 import { eventState, countdown, eventIcs, googleCalendarUrl, mapLinks } from '../src/time.mjs';
 
 const expectedRoutes = ['home', 'roadmap', 'workshops/02', 'learn', 'studio', 'recap', 'about', 'admin'];
@@ -79,7 +79,21 @@ test('브라우저 이벤트·미션·복사 컨트롤이 올바른 데이터와
   assert.equal(new Set(missionIds).size, missionIds.length);
   for (const [, id] of html.matchAll(/data-copy="([^"]+)"/g)) assert.ok(html.includes(`id="${id}"`));
   assert.match(html, /id="menu-toggle"[^>]*aria-controls="sidebar"[^>]*aria-expanded="false"/);
+  for (const id of ['menu-close', 'home-date', 'summary-event-day', 'summary-countdown', 'semester-progress', 'semester-progress-label']) {
+    assert.ok(html.includes(`id="${id}"`), `동적 표시 대상이 없음: ${id}`);
+  }
   assert.match(html, /id="toast"[^>]*role="status"[^>]*aria-live="polite"/);
+});
+
+test('슬로건은 한국어·영어 화면에서 같은 영문 원문을 유지한다', () => {
+  const motto = 'Turn your imagination into reality';
+  assert.equal(site.motto, motto);
+  const hero = html.match(/<h1\b[^>]*aria-label="Turn your imagination into reality"[^>]*>([\s\S]*?)<\/h1>/)?.[1];
+  assert.ok(hero, '홈 제목의 접근성 이름도 정확한 슬로건이어야 합니다.');
+  assert.equal(hero.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(), motto);
+  assert.doesNotMatch(hero, /\bdata-(?:ko|en)=/, '언어 전환 시 슬로건을 다른 문구로 바꾸지 않습니다.');
+  assert.ok(html.includes(`<span>${motto}</span>`) || html.includes(`>${motto}<`), '본문에도 슬로건이 표시됩니다.');
+  assert.doesNotMatch(html, /OBEDIRE\s+VERITATI|진리에 순종하라/i);
 });
 
 test('서강대 콘텐츠에 서울대 전용 인증·연락처나 이전 소셜 계정이 유입되지 않는다', () => {
