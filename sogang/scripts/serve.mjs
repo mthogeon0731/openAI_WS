@@ -6,10 +6,11 @@ import { buildSite, dist } from './build.mjs';
 
 const types = {
   '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8',
-  '.js': 'text/javascript; charset=utf-8', '.svg': 'image/svg+xml',
+  '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8', '.svg': 'image/svg+xml',
   '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg',
   '.webp': 'image/webp', '.ico': 'image/x-icon', '.txt': 'text/plain; charset=utf-8',
-  '.xml': 'application/xml', '.woff2': 'font/woff2', '.pdf': 'application/pdf', '.zip': 'application/zip'
+  '.xml': 'application/xml', '.woff2': 'font/woff2', '.pdf': 'application/pdf', '.zip': 'application/zip',
+  '.ics': 'text/calendar; charset=utf-8'
 };
 
 export function createPreviewServer() {
