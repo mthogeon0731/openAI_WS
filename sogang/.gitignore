@@ -1,0 +1,5 @@
+dist/
+.openai/
+.sites/
+node_modules/
+*.log

@@ -1,0 +1,13 @@
+{
+  "name": "sogang-student-collective",
+  "private": true,
+  "version": "1.0.0",
+  "description": "OpenAI Student Collective at Sogang — 프로그램과 실습 자료 안내",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

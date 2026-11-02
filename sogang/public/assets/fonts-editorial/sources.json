@@ -1,0 +1,1326 @@
+{
+  "stylesheets": [
+    {
+      "family": "noto-serif-kr",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@700&display=swap",
+      "files": [
+        "noto-serif-kr-001.woff2",
+        "noto-serif-kr-002.woff2",
+        "noto-serif-kr-003.woff2",
+        "noto-serif-kr-004.woff2",
+        "noto-serif-kr-005.woff2",
+        "noto-serif-kr-006.woff2",
+        "noto-serif-kr-007.woff2",
+        "noto-serif-kr-008.woff2",
+        "noto-serif-kr-009.woff2",
+        "noto-serif-kr-010.woff2",
+        "noto-serif-kr-011.woff2",
+        "noto-serif-kr-012.woff2",
+        "noto-serif-kr-013.woff2",
+        "noto-serif-kr-014.woff2",
+        "noto-serif-kr-015.woff2",
+        "noto-serif-kr-016.woff2",
+        "noto-serif-kr-017.woff2",
+        "noto-serif-kr-018.woff2",
+        "noto-serif-kr-019.woff2",
+        "noto-serif-kr-020.woff2",
+        "noto-serif-kr-021.woff2",
+        "noto-serif-kr-022.woff2",
+        "noto-serif-kr-023.woff2",
+        "noto-serif-kr-024.woff2",
+        "noto-serif-kr-025.woff2",
+        "noto-serif-kr-026.woff2",
+        "noto-serif-kr-027.woff2",
+        "noto-serif-kr-028.woff2",
+        "noto-serif-kr-029.woff2",
+        "noto-serif-kr-030.woff2",
+        "noto-serif-kr-031.woff2",
+        "noto-serif-kr-032.woff2",
+        "noto-serif-kr-033.woff2",
+        "noto-serif-kr-034.woff2",
+        "noto-serif-kr-035.woff2",
+        "noto-serif-kr-036.woff2",
+        "noto-serif-kr-037.woff2",
+        "noto-serif-kr-038.woff2",
+        "noto-serif-kr-039.woff2",
+        "noto-serif-kr-040.woff2",
+        "noto-serif-kr-041.woff2",
+        "noto-serif-kr-042.woff2",
+        "noto-serif-kr-043.woff2",
+        "noto-serif-kr-044.woff2",
+        "noto-serif-kr-045.woff2",
+        "noto-serif-kr-046.woff2",
+        "noto-serif-kr-047.woff2",
+        "noto-serif-kr-048.woff2",
+        "noto-serif-kr-049.woff2",
+        "noto-serif-kr-050.woff2",
+        "noto-serif-kr-051.woff2",
+        "noto-serif-kr-052.woff2",
+        "noto-serif-kr-053.woff2",
+        "noto-serif-kr-054.woff2",
+        "noto-serif-kr-055.woff2",
+        "noto-serif-kr-056.woff2",
+        "noto-serif-kr-057.woff2",
+        "noto-serif-kr-058.woff2",
+        "noto-serif-kr-059.woff2",
+        "noto-serif-kr-060.woff2",
+        "noto-serif-kr-061.woff2",
+        "noto-serif-kr-062.woff2",
+        "noto-serif-kr-063.woff2",
+        "noto-serif-kr-064.woff2",
+        "noto-serif-kr-065.woff2",
+        "noto-serif-kr-066.woff2",
+        "noto-serif-kr-067.woff2",
+        "noto-serif-kr-068.woff2",
+        "noto-serif-kr-069.woff2",
+        "noto-serif-kr-070.woff2",
+        "noto-serif-kr-071.woff2",
+        "noto-serif-kr-072.woff2",
+        "noto-serif-kr-073.woff2",
+        "noto-serif-kr-074.woff2",
+        "noto-serif-kr-075.woff2",
+        "noto-serif-kr-076.woff2",
+        "noto-serif-kr-077.woff2",
+        "noto-serif-kr-078.woff2",
+        "noto-serif-kr-079.woff2",
+        "noto-serif-kr-080.woff2",
+        "noto-serif-kr-081.woff2",
+        "noto-serif-kr-082.woff2",
+        "noto-serif-kr-083.woff2",
+        "noto-serif-kr-084.woff2",
+        "noto-serif-kr-085.woff2",
+        "noto-serif-kr-086.woff2",
+        "noto-serif-kr-087.woff2",
+        "noto-serif-kr-088.woff2",
+        "noto-serif-kr-089.woff2",
+        "noto-serif-kr-090.woff2",
+        "noto-serif-kr-091.woff2",
+        "noto-serif-kr-092.woff2",
+        "noto-serif-kr-093.woff2",
+        "noto-serif-kr-094.woff2",
+        "noto-serif-kr-095.woff2",
+        "noto-serif-kr-096.woff2",
+        "noto-serif-kr-097.woff2",
+        "noto-serif-kr-098.woff2",
+        "noto-serif-kr-099.woff2",
+        "noto-serif-kr-100.woff2",
+        "noto-serif-kr-101.woff2",
+        "noto-serif-kr-102.woff2",
+        "noto-serif-kr-103.woff2",
+        "noto-serif-kr-104.woff2",
+        "noto-serif-kr-105.woff2",
+        "noto-serif-kr-106.woff2",
+        "noto-serif-kr-107.woff2",
+        "noto-serif-kr-108.woff2",
+        "noto-serif-kr-109.woff2",
+        "noto-serif-kr-110.woff2",
+        "noto-serif-kr-111.woff2",
+        "noto-serif-kr-112.woff2",
+        "noto-serif-kr-113.woff2",
+        "noto-serif-kr-114.woff2",
+        "noto-serif-kr-115.woff2",
+        "noto-serif-kr-116.woff2",
+        "noto-serif-kr-117.woff2",
+        "noto-serif-kr-118.woff2",
+        "noto-serif-kr-119.woff2",
+        "noto-serif-kr-120.woff2",
+        "noto-serif-kr-121.woff2",
+        "noto-serif-kr-122.woff2",
+        "noto-serif-kr-123.woff2",
+        "noto-serif-kr-124.woff2"
+      ]
+    },
+    {
+      "family": "material-symbols-rounded",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=arrow_forward,backpack,calendar_add_on,calendar_month,chat,check,checklist,close,content_copy,download,edit_note,event,flag,groups,help,history,home,laptop_mac,location_on,lock,lock_open,menu,photo_library,route,schedule,school,settings&display=block",
+      "files": [
+        "material-symbols-rounded-001.woff2"
+      ]
+    },
+    {
+      "family": "wanted-sans-variable",
+      "stylesheet": "https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.1/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css",
+      "files": [
+        "wanted-sans-variable-001.woff2",
+        "wanted-sans-variable-002.woff2",
+        "wanted-sans-variable-003.woff2",
+        "wanted-sans-variable-004.woff2",
+        "wanted-sans-variable-005.woff2",
+        "wanted-sans-variable-006.woff2",
+        "wanted-sans-variable-007.woff2",
+        "wanted-sans-variable-008.woff2",
+        "wanted-sans-variable-009.woff2",
+        "wanted-sans-variable-010.woff2",
+        "wanted-sans-variable-011.woff2",
+        "wanted-sans-variable-012.woff2",
+        "wanted-sans-variable-013.woff2",
+        "wanted-sans-variable-014.woff2",
+        "wanted-sans-variable-015.woff2",
+        "wanted-sans-variable-016.woff2",
+        "wanted-sans-variable-017.woff2",
+        "wanted-sans-variable-018.woff2",
+        "wanted-sans-variable-019.woff2",
+        "wanted-sans-variable-020.woff2",
+        "wanted-sans-variable-021.woff2",
+        "wanted-sans-variable-022.woff2",
+        "wanted-sans-variable-023.woff2",
+        "wanted-sans-variable-024.woff2",
+        "wanted-sans-variable-025.woff2",
+        "wanted-sans-variable-026.woff2",
+        "wanted-sans-variable-027.woff2",
+        "wanted-sans-variable-028.woff2",
+        "wanted-sans-variable-029.woff2",
+        "wanted-sans-variable-030.woff2",
+        "wanted-sans-variable-031.woff2",
+        "wanted-sans-variable-032.woff2",
+        "wanted-sans-variable-033.woff2",
+        "wanted-sans-variable-034.woff2",
+        "wanted-sans-variable-035.woff2",
+        "wanted-sans-variable-036.woff2",
+        "wanted-sans-variable-037.woff2",
+        "wanted-sans-variable-038.woff2",
+        "wanted-sans-variable-039.woff2",
+        "wanted-sans-variable-040.woff2",
+        "wanted-sans-variable-041.woff2",
+        "wanted-sans-variable-042.woff2",
+        "wanted-sans-variable-043.woff2",
+        "wanted-sans-variable-044.woff2",
+        "wanted-sans-variable-045.woff2",
+        "wanted-sans-variable-046.woff2",
+        "wanted-sans-variable-047.woff2",
+        "wanted-sans-variable-048.woff2",
+        "wanted-sans-variable-049.woff2",
+        "wanted-sans-variable-050.woff2",
+        "wanted-sans-variable-051.woff2",
+        "wanted-sans-variable-052.woff2",
+        "wanted-sans-variable-053.woff2",
+        "wanted-sans-variable-054.woff2",
+        "wanted-sans-variable-055.woff2",
+        "wanted-sans-variable-056.woff2",
+        "wanted-sans-variable-057.woff2",
+        "wanted-sans-variable-058.woff2",
+        "wanted-sans-variable-059.woff2",
+        "wanted-sans-variable-060.woff2",
+        "wanted-sans-variable-061.woff2",
+        "wanted-sans-variable-062.woff2",
+        "wanted-sans-variable-063.woff2",
+        "wanted-sans-variable-064.woff2",
+        "wanted-sans-variable-065.woff2",
+        "wanted-sans-variable-066.woff2",
+        "wanted-sans-variable-067.woff2",
+        "wanted-sans-variable-068.woff2",
+        "wanted-sans-variable-069.woff2",
+        "wanted-sans-variable-070.woff2",
+        "wanted-sans-variable-071.woff2",
+        "wanted-sans-variable-072.woff2",
+        "wanted-sans-variable-073.woff2",
+        "wanted-sans-variable-074.woff2",
+        "wanted-sans-variable-075.woff2",
+        "wanted-sans-variable-076.woff2",
+        "wanted-sans-variable-077.woff2",
+        "wanted-sans-variable-078.woff2",
+        "wanted-sans-variable-079.woff2",
+        "wanted-sans-variable-080.woff2",
+        "wanted-sans-variable-081.woff2",
+        "wanted-sans-variable-082.woff2",
+        "wanted-sans-variable-083.woff2",
+        "wanted-sans-variable-084.woff2",
+        "wanted-sans-variable-085.woff2",
+        "wanted-sans-variable-086.woff2",
+        "wanted-sans-variable-087.woff2",
+        "wanted-sans-variable-088.woff2",
+        "wanted-sans-variable-089.woff2",
+        "wanted-sans-variable-090.woff2",
+        "wanted-sans-variable-091.woff2",
+        "wanted-sans-variable-092.woff2"
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "file": "noto-serif-kr-001.woff2",
+      "bytes": 24980,
+      "sha256": "8fffc0ee532ab716be608703048063ff5e9099d5a79a29cd268c41e25c414637"
+    },
+    {
+      "file": "noto-serif-kr-002.woff2",
+      "bytes": 40416,
+      "sha256": "d5348102f997d797269bec0e8781d39e9fe0dd0f217ff9a7308f1aa4aa58f221"
+    },
+    {
+      "file": "noto-serif-kr-003.woff2",
+      "bytes": 33184,
+      "sha256": "033f2ec950c4061ddd18022725a43c3d68cd572c70a9bdd5d050697906cb27a2"
+    },
+    {
+      "file": "noto-serif-kr-004.woff2",
+      "bytes": 29184,
+      "sha256": "8270e222926185ac32267bd52a8e0ea284eae38ce487f3d727274eeac3d451be"
+    },
+    {
+      "file": "noto-serif-kr-005.woff2",
+      "bytes": 29220,
+      "sha256": "ca2193b7e29494d134c210318d8095fd423aa55b64b61f2e5fd1b8ea9374ccad"
+    },
+    {
+      "file": "noto-serif-kr-006.woff2",
+      "bytes": 26248,
+      "sha256": "359909331cabc24ad91ca953f7b166041d3dee92a600f62641ddd3cecbfb0811"
+    },
+    {
+      "file": "noto-serif-kr-007.woff2",
+      "bytes": 27708,
+      "sha256": "1ecff3707db26f9ebf7f3be783e14fa4c69ad675e4a060be51fb8e021c53110c"
+    },
+    {
+      "file": "noto-serif-kr-008.woff2",
+      "bytes": 28904,
+      "sha256": "d2e8e52247bbf266680f1730d9cc671f9abc49968bb6fa94d34598e74588e44a"
+    },
+    {
+      "file": "noto-serif-kr-009.woff2",
+      "bytes": 24076,
+      "sha256": "fc1fd0322d6d807fe15edd1f2e2c02270ad31f068f4d46034633765dba207578"
+    },
+    {
+      "file": "noto-serif-kr-010.woff2",
+      "bytes": 27908,
+      "sha256": "cd56bc3f62dfe4de0cde7906ec92ad1300c600b945f92bffbdc8ad4f3850f853"
+    },
+    {
+      "file": "noto-serif-kr-011.woff2",
+      "bytes": 26424,
+      "sha256": "25839db66bacd0638c1bd53dbd4247a7c9e745998620cc3fa5ec308859b797a7"
+    },
+    {
+      "file": "noto-serif-kr-012.woff2",
+      "bytes": 23908,
+      "sha256": "a231e35c3e62daa0b9b8b5b61e3543c4ecbbbd1cff94a0e47d377d5e14754a88"
+    },
+    {
+      "file": "noto-serif-kr-013.woff2",
+      "bytes": 26256,
+      "sha256": "715850de7def2b5cf5c6d8c2d2a9f82e43f7427bdfd6a9a8d72c9e8e3116f16f"
+    },
+    {
+      "file": "noto-serif-kr-014.woff2",
+      "bytes": 26696,
+      "sha256": "0fb8db64282cfb872a11696551d2dfd656c8cfdd117f62286116e62e8da4b9d4"
+    },
+    {
+      "file": "noto-serif-kr-015.woff2",
+      "bytes": 25688,
+      "sha256": "6ce80a9fa2d21458634c03b1acfd4a3f4db4409802139fa9605891cb60e174fd"
+    },
+    {
+      "file": "noto-serif-kr-016.woff2",
+      "bytes": 24332,
+      "sha256": "d9840ad943d5d8887b6f0eab8f8ff01b74f80d5f10a68412aabf42254b8959b9"
+    },
+    {
+      "file": "noto-serif-kr-017.woff2",
+      "bytes": 28280,
+      "sha256": "6132d6e6d6dc66acdb417d598e1042afd820cd3b1c7e3d819527874780a64882"
+    },
+    {
+      "file": "noto-serif-kr-018.woff2",
+      "bytes": 29252,
+      "sha256": "5eb1679c432d121dc98c1382749092e3ef01ef16515d15d278359951a739ded7"
+    },
+    {
+      "file": "noto-serif-kr-019.woff2",
+      "bytes": 25396,
+      "sha256": "e255b487f529a7e23b7322a8639540c169c17f8d2c3989e315f4cb5cae8d5846"
+    },
+    {
+      "file": "noto-serif-kr-020.woff2",
+      "bytes": 29276,
+      "sha256": "cb31baa43df747c6c81557871da960c87064d28d18c5c015dbee870c02f06ed2"
+    },
+    {
+      "file": "noto-serif-kr-021.woff2",
+      "bytes": 29868,
+      "sha256": "351af50ea242df10c9d0d580f6e2110573f1ef5a032fa77b0583c9ac23e66b43"
+    },
+    {
+      "file": "noto-serif-kr-022.woff2",
+      "bytes": 27588,
+      "sha256": "b420ba1dc9171f00dcf0c559447b456217e1aed365102e3caa500ccad0491d5b"
+    },
+    {
+      "file": "noto-serif-kr-023.woff2",
+      "bytes": 25972,
+      "sha256": "989850305b2131a923f5f2c2621cc9c989eb97957d48d4ff0a603e87ba20d10d"
+    },
+    {
+      "file": "noto-serif-kr-024.woff2",
+      "bytes": 26224,
+      "sha256": "eece89988a6f0d31319253b2ba35a5c5afa9446a257be5f9bcf5df6acb85d898"
+    },
+    {
+      "file": "noto-serif-kr-025.woff2",
+      "bytes": 29536,
+      "sha256": "1dce6cb2f5f45e3be95e30659716bd0dc1bb89c2640dc111e028f68545f4a60f"
+    },
+    {
+      "file": "noto-serif-kr-026.woff2",
+      "bytes": 22884,
+      "sha256": "3b78b1083926b897a286d38f7899f3e8fd5585165b6499e27447580f7ffb361b"
+    },
+    {
+      "file": "noto-serif-kr-027.woff2",
+      "bytes": 24932,
+      "sha256": "3bcca9fcf9ef2f877f2fcba1284bd45408b3d5de81e9dd2adb3b1bd14d4b689f"
+    },
+    {
+      "file": "noto-serif-kr-028.woff2",
+      "bytes": 26984,
+      "sha256": "f8bb20690b38c83e504333f1518049789b34cd3696d4704d82f9d4e941ba8f35"
+    },
+    {
+      "file": "noto-serif-kr-029.woff2",
+      "bytes": 23420,
+      "sha256": "82437c3b19bcd8da596e2c4d2681081f41370f2fabb22643a60047c9cb9c3a07"
+    },
+    {
+      "file": "noto-serif-kr-030.woff2",
+      "bytes": 26880,
+      "sha256": "d2bd8708b6efef7390c1a2c14aecdfd93c2faeb91edf233663034b862e9a817a"
+    },
+    {
+      "file": "noto-serif-kr-031.woff2",
+      "bytes": 27760,
+      "sha256": "a68e8ab1b63c74a5a43bb66c2d44319ef323d0927069caa2a61218b4213eb4e3"
+    },
+    {
+      "file": "noto-serif-kr-032.woff2",
+      "bytes": 24576,
+      "sha256": "56eb39cc7a480493d077be5baba5f4c845e1d31becb65773e880a995c526f3f9"
+    },
+    {
+      "file": "noto-serif-kr-033.woff2",
+      "bytes": 27704,
+      "sha256": "5d1f6454bdbc6bf9732d673aed6644a66fa2fee58bd18210d69ad2e5cefbf863"
+    },
+    {
+      "file": "noto-serif-kr-034.woff2",
+      "bytes": 26992,
+      "sha256": "8da9f07dbe7f69da059deb7819823d708799169460977739022227befce2f7b5"
+    },
+    {
+      "file": "noto-serif-kr-035.woff2",
+      "bytes": 24336,
+      "sha256": "0a0263d5ab6c749f1560ec4eba9e0c0232a2f4f76ae7f1106324dedd408eda41"
+    },
+    {
+      "file": "noto-serif-kr-036.woff2",
+      "bytes": 27308,
+      "sha256": "c94e9884ea41980ec6c73691c1f9ea59cac1637c5aca2add8079cb4dff304cb2"
+    },
+    {
+      "file": "noto-serif-kr-037.woff2",
+      "bytes": 29224,
+      "sha256": "275fbc56ee6e78c15f37f757a0e24a607bfbae05f23aab8d4d71ced4ba1eaac6"
+    },
+    {
+      "file": "noto-serif-kr-038.woff2",
+      "bytes": 30164,
+      "sha256": "8fd40eba2aa300c97f509b64675ebf2a781af9ee06b547eba5c44fdfc895abdd"
+    },
+    {
+      "file": "noto-serif-kr-039.woff2",
+      "bytes": 23752,
+      "sha256": "45774812811ea5da0c2fcdc7951565338cb8dfa7c070ffe21c25025b99083c9b"
+    },
+    {
+      "file": "noto-serif-kr-040.woff2",
+      "bytes": 28544,
+      "sha256": "27d42b234bdb9f2a9b652435b3691390c8e871dbd2dbac66be3af39a7423f579"
+    },
+    {
+      "file": "noto-serif-kr-041.woff2",
+      "bytes": 28348,
+      "sha256": "6031544c8a681eb94b3b5433cfdbfd2eec5b77d8a66aec56dedadb979ebb4e56"
+    },
+    {
+      "file": "noto-serif-kr-042.woff2",
+      "bytes": 22208,
+      "sha256": "138eea28d15c6c295efcfb73f7f201600acc5b71a135cab3d460992c2c72247b"
+    },
+    {
+      "file": "noto-serif-kr-043.woff2",
+      "bytes": 27956,
+      "sha256": "36c5ed88b7a6ee8709d1c99355c6795ff8752d1a7cf0c764e053629517358067"
+    },
+    {
+      "file": "noto-serif-kr-044.woff2",
+      "bytes": 29644,
+      "sha256": "d84460b7bf90f3b84e24f03bc26c0000ed576acd84aa29243c831e433978915f"
+    },
+    {
+      "file": "noto-serif-kr-045.woff2",
+      "bytes": 25184,
+      "sha256": "247f66916c78162cadc29c257366c10bc7a0c9b29146245a3bfa9a5d7d2a34a0"
+    },
+    {
+      "file": "noto-serif-kr-046.woff2",
+      "bytes": 25724,
+      "sha256": "abd661e99e25b5b4a0baf71f1aff424dbb5658af25fe413c0f4ed943639bebe6"
+    },
+    {
+      "file": "noto-serif-kr-047.woff2",
+      "bytes": 28700,
+      "sha256": "594ded397aa48156f569e20c7d7f72f50dfba617993224307f33f52bf6cdda62"
+    },
+    {
+      "file": "noto-serif-kr-048.woff2",
+      "bytes": 28404,
+      "sha256": "76f4240e15f4706c4faf80893df3e18f0e548480ca6abbdaeda803236979907b"
+    },
+    {
+      "file": "noto-serif-kr-049.woff2",
+      "bytes": 24496,
+      "sha256": "3411867e5dba0ef62f17763a803ec22ab72d801d17cb74de2a78d9fd91227e76"
+    },
+    {
+      "file": "noto-serif-kr-050.woff2",
+      "bytes": 27376,
+      "sha256": "8c4b1a12762f556bcad0537417fff9926392772f17fb9a2d97855ed328cae0c6"
+    },
+    {
+      "file": "noto-serif-kr-051.woff2",
+      "bytes": 27504,
+      "sha256": "ef25783a45894d41f4dffa739ad4a1437a50af96bb5606d2e302969c9b55bdf5"
+    },
+    {
+      "file": "noto-serif-kr-052.woff2",
+      "bytes": 23688,
+      "sha256": "2c3041b821b80c9730c4b5f5fa4bcc49f721232ccc517ae2e4f45bcbf8dcfb7f"
+    },
+    {
+      "file": "noto-serif-kr-053.woff2",
+      "bytes": 26468,
+      "sha256": "5a0f31ec3bed160080ffdf0682cedbe0e159ce2a3504c9881a8ac719a3093d11"
+    },
+    {
+      "file": "noto-serif-kr-054.woff2",
+      "bytes": 27212,
+      "sha256": "f57c02cae4a684bfe99ccbc32c09d489c183f80a15f7d9209ece6eac2b190e98"
+    },
+    {
+      "file": "noto-serif-kr-055.woff2",
+      "bytes": 26144,
+      "sha256": "c6649241346ed9a53fdf0f290a8ad61ee3e7780c892c894363b8d72b18d6dc31"
+    },
+    {
+      "file": "noto-serif-kr-056.woff2",
+      "bytes": 24848,
+      "sha256": "9c71698e507d9d9012a7546f01c30d03e767e2d03cb1d2fb83c9e17dc8a3fedc"
+    },
+    {
+      "file": "noto-serif-kr-057.woff2",
+      "bytes": 24732,
+      "sha256": "1c415e6f2ab1eae5ad809b73ced4a978730ec0d0bd7d6d24954dcf0cd1e00588"
+    },
+    {
+      "file": "noto-serif-kr-058.woff2",
+      "bytes": 24816,
+      "sha256": "aaa6ab34b94fff46e2fd1d3b729f8f1010d0276ea6bc04212125630caf1e23cd"
+    },
+    {
+      "file": "noto-serif-kr-059.woff2",
+      "bytes": 24128,
+      "sha256": "c6c13a451e51d2a2fedfdc9fc58b8de9f8305545cb3ad7009b124954337c64b3"
+    },
+    {
+      "file": "noto-serif-kr-060.woff2",
+      "bytes": 27944,
+      "sha256": "9cd70bfc04d868d4a710467d2b29d14ac6750e4a9e6941383ad0fd5db4ab3aac"
+    },
+    {
+      "file": "noto-serif-kr-061.woff2",
+      "bytes": 29072,
+      "sha256": "1ab59e9859daf2a93304798fce4acf8ebf2db11ee53f9833078572ce9a43b7c7"
+    },
+    {
+      "file": "noto-serif-kr-062.woff2",
+      "bytes": 23940,
+      "sha256": "5f6b6c3f5ebd4f7687bc0744910f6de0e7ddcea8f9f3caa2f8a875d0947f49e8"
+    },
+    {
+      "file": "noto-serif-kr-063.woff2",
+      "bytes": 27096,
+      "sha256": "056b948d5409cb5540f44d5aea257300183bf7476dd80e158c9cbf89ae5b718a"
+    },
+    {
+      "file": "noto-serif-kr-064.woff2",
+      "bytes": 26548,
+      "sha256": "146a293f72ea0f41ca86b6f2393a6877255f16e322fa0d3959867c6652819473"
+    },
+    {
+      "file": "noto-serif-kr-065.woff2",
+      "bytes": 21416,
+      "sha256": "1bd055a59cfe2e65fdfb44438deb1d4c305ab96f342b0248ee43e17926a55815"
+    },
+    {
+      "file": "noto-serif-kr-066.woff2",
+      "bytes": 49816,
+      "sha256": "22ce7001aa2186628181882752d6f0a74f4c6da0ad586487aaf07a68f60b5571"
+    },
+    {
+      "file": "noto-serif-kr-067.woff2",
+      "bytes": 41956,
+      "sha256": "9eae53458c75fb964923729d74ba5ac15e7551dd91da1bc4c50cea9a032130ff"
+    },
+    {
+      "file": "noto-serif-kr-068.woff2",
+      "bytes": 36636,
+      "sha256": "fc789f3ca7b20a612d9cd85a694113c07023df0bcd10388400c38344922da267"
+    },
+    {
+      "file": "noto-serif-kr-069.woff2",
+      "bytes": 36624,
+      "sha256": "35a96cb705e841f9b68476c8627c9ce3a28bea80eda7a6ccdccff15e752809c4"
+    },
+    {
+      "file": "noto-serif-kr-070.woff2",
+      "bytes": 37568,
+      "sha256": "a49cbd36ee834f4070591844e684aad1ec557b4a6c30a4cb2e2072dcc8e376c5"
+    },
+    {
+      "file": "noto-serif-kr-071.woff2",
+      "bytes": 39052,
+      "sha256": "934896d28cbe6a1f862056f5460403ab82be38bd5ee75d9393945cbd79e6d399"
+    },
+    {
+      "file": "noto-serif-kr-072.woff2",
+      "bytes": 42032,
+      "sha256": "d627bd774843c263cc2a21f594d3840146ddf6c068fbd73bcab0e97a02f4b629"
+    },
+    {
+      "file": "noto-serif-kr-073.woff2",
+      "bytes": 33948,
+      "sha256": "eede49d86deaa6fb647fe0ab903b00fbeb54dc3d462245a1b36082af0cad8c2b"
+    },
+    {
+      "file": "noto-serif-kr-074.woff2",
+      "bytes": 35988,
+      "sha256": "55820b2b623fe3428859e5c899db31f53c98108c8362f6802d16480065eb2069"
+    },
+    {
+      "file": "noto-serif-kr-075.woff2",
+      "bytes": 42660,
+      "sha256": "11434db98c0c85af0faf89ae1b5528be90a0ab0cad4d15d01cbc0ebcd7d69cc2"
+    },
+    {
+      "file": "noto-serif-kr-076.woff2",
+      "bytes": 39688,
+      "sha256": "d6c75b26edfbd6552a7df9aeb0594ffbfbffc6d26b453feb6976ebe784ed8c07"
+    },
+    {
+      "file": "noto-serif-kr-077.woff2",
+      "bytes": 36292,
+      "sha256": "6bb8b82e7ce5d9661da62a05e65df326e55fda05d8c636c70c5375b84c62167f"
+    },
+    {
+      "file": "noto-serif-kr-078.woff2",
+      "bytes": 37344,
+      "sha256": "70897012be14f6f76510c72422696ea99f204082a839ac9e0f4791726af1f002"
+    },
+    {
+      "file": "noto-serif-kr-079.woff2",
+      "bytes": 34840,
+      "sha256": "a7cbb8de4dcf4660196a82133ee4b862954c8485b781eff4f05cb9db113a161e"
+    },
+    {
+      "file": "noto-serif-kr-080.woff2",
+      "bytes": 46416,
+      "sha256": "cd96cf8bdf5f310b5653949feaa86a4f9d35a4c04c4a327505542419885a55a2"
+    },
+    {
+      "file": "noto-serif-kr-081.woff2",
+      "bytes": 41476,
+      "sha256": "0c78a99d32e4568379f5b3e591cdb73a92e55cf4b9d4b861a1f22deeb897b1ea"
+    },
+    {
+      "file": "noto-serif-kr-082.woff2",
+      "bytes": 35400,
+      "sha256": "5d4826bd950ba12576730422d7dfe6c22050d9a4128735cb379ece8977cc61b8"
+    },
+    {
+      "file": "noto-serif-kr-083.woff2",
+      "bytes": 36924,
+      "sha256": "83fda2afc7ebb59baf43a2a1bf9a15aba02dd0de684bc9c4d45b6848dfe229f4"
+    },
+    {
+      "file": "noto-serif-kr-084.woff2",
+      "bytes": 30052,
+      "sha256": "af4e7a40b33584ad3c100fbcd4d4c26559aa60a4bb2616d0adc61fbc0bccf6d7"
+    },
+    {
+      "file": "noto-serif-kr-085.woff2",
+      "bytes": 39036,
+      "sha256": "81ec0b6d3816d88a983f3779bb7d4a8a1679e5c988eb8b13d8cccc0e77be5c4c"
+    },
+    {
+      "file": "noto-serif-kr-086.woff2",
+      "bytes": 36504,
+      "sha256": "63f9518b5c693727995a573265bcd23ec924e41471a26768f5dbbf8a29a4d062"
+    },
+    {
+      "file": "noto-serif-kr-087.woff2",
+      "bytes": 35100,
+      "sha256": "9391c1b03e513e80bdc76c2e4fc5e5e6adb46b0d8eb25bc46ac5475eae58ab8b"
+    },
+    {
+      "file": "noto-serif-kr-088.woff2",
+      "bytes": 33584,
+      "sha256": "934c93a7f63d8c348fc685cce572d9356ca60e9842dabc4e463209815124ae75"
+    },
+    {
+      "file": "noto-serif-kr-089.woff2",
+      "bytes": 34652,
+      "sha256": "ecf417612c20b1f96284bd6e039de1b93165230d995ba6407e11dfada127e220"
+    },
+    {
+      "file": "noto-serif-kr-090.woff2",
+      "bytes": 33884,
+      "sha256": "a5aaa85a4627e597a05d83fd95bc9c54cad7045808236eababe2a35b6684ee47"
+    },
+    {
+      "file": "noto-serif-kr-091.woff2",
+      "bytes": 31796,
+      "sha256": "829a4fb5b3153dace2bd6ade052834817f8600ff290c547b10f8e03deb730fa3"
+    },
+    {
+      "file": "noto-serif-kr-092.woff2",
+      "bytes": 31632,
+      "sha256": "9b254d565acbf1e0857550198947015a9aa304d43b572f89f5aa1f1b1997625f"
+    },
+    {
+      "file": "noto-serif-kr-093.woff2",
+      "bytes": 31232,
+      "sha256": "bb9cd41963f3a4c7d3a283abe390cbfbd1140f2390da5e5208413ce0efe22c87"
+    },
+    {
+      "file": "noto-serif-kr-094.woff2",
+      "bytes": 22512,
+      "sha256": "b7ac30b57f7150c3016fe622a019c1c7bf2d72974fd34a898be1677486b03e5c"
+    },
+    {
+      "file": "noto-serif-kr-095.woff2",
+      "bytes": 18712,
+      "sha256": "fbbbf2433ac509d724e8e70cc3965a7502944dfe867f3f8592758c020cdb847f"
+    },
+    {
+      "file": "noto-serif-kr-096.woff2",
+      "bytes": 38912,
+      "sha256": "35260e718e3ca560c8db1ec5889cb3eff8e3621bf6e4eda7902f4d2418ffcdb3"
+    },
+    {
+      "file": "noto-serif-kr-097.woff2",
+      "bytes": 14044,
+      "sha256": "59e61a69fececb197f775b07e1854db1b95f82e69a24b796ced1412c8f845946"
+    },
+    {
+      "file": "noto-serif-kr-098.woff2",
+      "bytes": 9912,
+      "sha256": "067ae03fbe1279bc319267bafd63e91167880e7569f3a81805df34f777829d1e"
+    },
+    {
+      "file": "noto-serif-kr-099.woff2",
+      "bytes": 7816,
+      "sha256": "7dec1f9b70fb3007e51207f8549a00eab463ded33535c3d681c321e592c9c0d6"
+    },
+    {
+      "file": "noto-serif-kr-100.woff2",
+      "bytes": 12496,
+      "sha256": "2c6cf9bb07f1fe3576d0c6e2ae6a39e4d9d9492935b0976fd4fe9affeb0db232"
+    },
+    {
+      "file": "noto-serif-kr-101.woff2",
+      "bytes": 24924,
+      "sha256": "e17e0e1baebb4a441301e1b5a98c067865e6885c5fe0a61975d390ed6a1ad3ab"
+    },
+    {
+      "file": "noto-serif-kr-102.woff2",
+      "bytes": 23680,
+      "sha256": "32b60c98e97da8825a8a80b40ff34b787d99423b4378ba8d906032773b0149cd"
+    },
+    {
+      "file": "noto-serif-kr-103.woff2",
+      "bytes": 25460,
+      "sha256": "9e421fd14ddcf0bb1d4d6d35f31a79840af3248f5813dd6cdb56a691c7aa903b"
+    },
+    {
+      "file": "noto-serif-kr-104.woff2",
+      "bytes": 24636,
+      "sha256": "72fc5e70500a0674993d1c98d51cd5e504bb71c9365740d4044f0ab32ef244f8"
+    },
+    {
+      "file": "noto-serif-kr-105.woff2",
+      "bytes": 27552,
+      "sha256": "92b231fa3664514ee9dcce5113b516507a9fe01c6039ad9122b24dbdd7c9edb3"
+    },
+    {
+      "file": "noto-serif-kr-106.woff2",
+      "bytes": 25348,
+      "sha256": "0664d3c5f0885639b12fbf6bca0ea4e74081ab91a0c7391ea977e8dd3ad8f017"
+    },
+    {
+      "file": "noto-serif-kr-107.woff2",
+      "bytes": 25680,
+      "sha256": "e7ecad37f3d9d9c025e3f68712e12dafa74c990460b5978e6768ecfd007e445d"
+    },
+    {
+      "file": "noto-serif-kr-108.woff2",
+      "bytes": 23588,
+      "sha256": "5be3eac851bcdbea7ede7ac121c9a458e2c33cfadf760432f02adfbda392e986"
+    },
+    {
+      "file": "noto-serif-kr-109.woff2",
+      "bytes": 24968,
+      "sha256": "5b40393b53875cd5cdd8c4e71361d8f583c8d3654833c0b65076d82cb4703d68"
+    },
+    {
+      "file": "noto-serif-kr-110.woff2",
+      "bytes": 22800,
+      "sha256": "572653c987f27d1c5aedb8de074425bd6977fa4091a41206529d19011e1fb81f"
+    },
+    {
+      "file": "noto-serif-kr-111.woff2",
+      "bytes": 23428,
+      "sha256": "d0063739715c68351acd92e3171118e0f6bf83ee9bc111681ef42c882c87c96d"
+    },
+    {
+      "file": "noto-serif-kr-112.woff2",
+      "bytes": 23332,
+      "sha256": "4da97cb03e0d93fa650153cb969679e1a37f9d69be479552ab420509ac8da38e"
+    },
+    {
+      "file": "noto-serif-kr-113.woff2",
+      "bytes": 22256,
+      "sha256": "0f38802e1b7835ca9052ac2c42a3a7a3a355af663069c518e036f6c7fe1dd5b0"
+    },
+    {
+      "file": "noto-serif-kr-114.woff2",
+      "bytes": 22556,
+      "sha256": "31831242ed37bc9810b45e2ab5a33ba44128343068af132ea6f8e7090beffee5"
+    },
+    {
+      "file": "noto-serif-kr-115.woff2",
+      "bytes": 22008,
+      "sha256": "26cf7457b4a21626948818f40500e2999b2910037ee1f3dca7e5d2957b5ed3c7"
+    },
+    {
+      "file": "noto-serif-kr-116.woff2",
+      "bytes": 20932,
+      "sha256": "418f8a2931c2ee4b1022369fb0788a461243bad409727c319e9a95fd72bb363c"
+    },
+    {
+      "file": "noto-serif-kr-117.woff2",
+      "bytes": 21392,
+      "sha256": "4966daa9acc68b9044e3927c4d2f5b26d0721a9c70567af19014e6fd0980d415"
+    },
+    {
+      "file": "noto-serif-kr-118.woff2",
+      "bytes": 19460,
+      "sha256": "474547e451316573310153b66fb2dee109275b728bb6e3e9b277062836555fa7"
+    },
+    {
+      "file": "noto-serif-kr-119.woff2",
+      "bytes": 16768,
+      "sha256": "c38179aec275ec00c2d6e4884972d78983767572d8d9aa77f9a442577351de47"
+    },
+    {
+      "file": "noto-serif-kr-120.woff2",
+      "bytes": 13476,
+      "sha256": "f75cf07b34cda77df934447ebcf6e5e160953447849608cc9d23cd855356d0ea"
+    },
+    {
+      "file": "noto-serif-kr-121.woff2",
+      "bytes": 8156,
+      "sha256": "8086cc1971c6247e48c1720e25ef3ec02b66449c5224b9895e8cc53e319f5377"
+    },
+    {
+      "file": "noto-serif-kr-122.woff2",
+      "bytes": 6044,
+      "sha256": "cb029e9e4d5c89217027487cba416a38d88558dd80ca5e62ad1a1513c3ca60e8"
+    },
+    {
+      "file": "noto-serif-kr-123.woff2",
+      "bytes": 5916,
+      "sha256": "0d0447ca95bb15eaa653a3c5a97516736a0fb7d821b4afbc2f31f9b913770f5a"
+    },
+    {
+      "file": "noto-serif-kr-124.woff2",
+      "bytes": 19500,
+      "sha256": "fb6e6a582960565cc33339659e32b1dea2530b91d9a058fb488a730424a96d3f"
+    },
+    {
+      "file": "material-symbols-rounded-001.woff2",
+      "bytes": 39448,
+      "sha256": "9dc948f84b54f2e27427812753c1053c1623dca68132834ff87b12125109eb5c"
+    },
+    {
+      "file": "wanted-sans-variable-001.woff2",
+      "bytes": 25632,
+      "sha256": "07fd7ff03b8607c0ba90750187b9a4611bd6973c049f3775ace9d8d396061b74"
+    },
+    {
+      "file": "wanted-sans-variable-002.woff2",
+      "bytes": 34544,
+      "sha256": "69b7938aeef55c807517028902f4057f9e51b413338a65b822212dad8d30fc9f"
+    },
+    {
+      "file": "wanted-sans-variable-003.woff2",
+      "bytes": 31032,
+      "sha256": "dd01da9f86cac2a156c2d12c88a64903d1d43171f3cebf3454d24df81774ce64"
+    },
+    {
+      "file": "wanted-sans-variable-004.woff2",
+      "bytes": 26960,
+      "sha256": "b084fbd1412fdb5d24751c331222c327601244825bfb389bcae935bd8c48a532"
+    },
+    {
+      "file": "wanted-sans-variable-005.woff2",
+      "bytes": 26092,
+      "sha256": "537610ce30d5e04a7ddc1d5ecf51c92ce8bb475f02fbbb9ad16034ec3b97fb1d"
+    },
+    {
+      "file": "wanted-sans-variable-006.woff2",
+      "bytes": 78040,
+      "sha256": "a8d3cdb2d22855fe85b71fca6e2048620a31f5c0340ab6ec1a028527c923d7cc"
+    },
+    {
+      "file": "wanted-sans-variable-007.woff2",
+      "bytes": 25136,
+      "sha256": "6e8c24f3b3db3d63aec6819a3d27be3691e08d25e960bc953fd3c373f03ea5bd"
+    },
+    {
+      "file": "wanted-sans-variable-008.woff2",
+      "bytes": 28772,
+      "sha256": "3a8cafdccf33f046686ceab4106bfb8866e9f7872bf30d56edcefd3b7654a172"
+    },
+    {
+      "file": "wanted-sans-variable-009.woff2",
+      "bytes": 26752,
+      "sha256": "7ae6c158557b7021d5f1941129a4f513d37f22c809d949d070287eb582c72c15"
+    },
+    {
+      "file": "wanted-sans-variable-010.woff2",
+      "bytes": 25968,
+      "sha256": "8f7ba53b44f8a48caf8c2d97013801217b97699f1c6e97aedaf5203d9d4468db"
+    },
+    {
+      "file": "wanted-sans-variable-011.woff2",
+      "bytes": 28740,
+      "sha256": "b0169edc5f908bdfb191769fdc7b00356bc22f02140b8ccabbadb57c0aa07e5b"
+    },
+    {
+      "file": "wanted-sans-variable-012.woff2",
+      "bytes": 28788,
+      "sha256": "2b2962d6dc65ec1a9b2d847145f0c61bbca453c18e78a5a2e95b982571226237"
+    },
+    {
+      "file": "wanted-sans-variable-013.woff2",
+      "bytes": 27628,
+      "sha256": "867970eab19ec1938f88806d2e30c2111e89bed95f6a8692c4f33a3a8ea38934"
+    },
+    {
+      "file": "wanted-sans-variable-014.woff2",
+      "bytes": 27844,
+      "sha256": "33f2fd0c3f5426c2eccf083109b9d3912ef43a9bb743ad306998c28e4a514360"
+    },
+    {
+      "file": "wanted-sans-variable-015.woff2",
+      "bytes": 27428,
+      "sha256": "68dd38600b759998f039cbdbcef16d870557c17d1d275a45821dfd4acf31a3a4"
+    },
+    {
+      "file": "wanted-sans-variable-016.woff2",
+      "bytes": 28912,
+      "sha256": "3d5c97ddbb389aef84b9a79d5ab5ec2a377623377dd6e4003c3c526877961584"
+    },
+    {
+      "file": "wanted-sans-variable-017.woff2",
+      "bytes": 26844,
+      "sha256": "4451faa021dc4072cd73a24e26dd1a4f6d16393035ea9db1274f58d9a27426a4"
+    },
+    {
+      "file": "wanted-sans-variable-018.woff2",
+      "bytes": 31512,
+      "sha256": "3f79098ce7b1f4e1dc7e9c7c946c00b1946aeb6fc4dbf2491b8f2a0b2490ca7d"
+    },
+    {
+      "file": "wanted-sans-variable-019.woff2",
+      "bytes": 32248,
+      "sha256": "9f556e0c43799d1e18534bae47e08d81fe10650ad7077ad1afb1b2945a9a16af"
+    },
+    {
+      "file": "wanted-sans-variable-020.woff2",
+      "bytes": 27740,
+      "sha256": "ed21caadb07fb16b0677cfa89c772bc3c0cd4c66e400cec43aa169667ad7f327"
+    },
+    {
+      "file": "wanted-sans-variable-021.woff2",
+      "bytes": 28304,
+      "sha256": "be6aa14bf828024ddd266892ef3c3556a271e8f14a4ca04bec0b1e7b6249f5ab"
+    },
+    {
+      "file": "wanted-sans-variable-022.woff2",
+      "bytes": 29768,
+      "sha256": "5a2baf1f04fccc9e08043499346ebd9b2c6343c4890395068e4c27005e160d45"
+    },
+    {
+      "file": "wanted-sans-variable-023.woff2",
+      "bytes": 30688,
+      "sha256": "24588a4afd0d0e5e7b287ebb2c8fc75b4427518a9cb9d2c8f1c2c77c8b8367b2"
+    },
+    {
+      "file": "wanted-sans-variable-024.woff2",
+      "bytes": 25304,
+      "sha256": "df9990607b5fec4ffd539193deb021cc0a46ee2a9b3d701d45bfc771c49e72e1"
+    },
+    {
+      "file": "wanted-sans-variable-025.woff2",
+      "bytes": 32568,
+      "sha256": "88b42bbb196e01b56dd5c07e72881f7a8ec2cec2886842868a3592c80c4ac4f1"
+    },
+    {
+      "file": "wanted-sans-variable-026.woff2",
+      "bytes": 30620,
+      "sha256": "55cb7a3f0cd5dc79f18b2ac558728c45ed0d738a03611b8cb0c41f31aeeec309"
+    },
+    {
+      "file": "wanted-sans-variable-027.woff2",
+      "bytes": 27448,
+      "sha256": "955b70dbf953cf3535979dae9063170bd4c7ad84c80578ca08edd26310df994c"
+    },
+    {
+      "file": "wanted-sans-variable-028.woff2",
+      "bytes": 29368,
+      "sha256": "91c1d696508d4df10d2433ebb5de8c37463575952e8ab2e31c2f61b976934dbb"
+    },
+    {
+      "file": "wanted-sans-variable-029.woff2",
+      "bytes": 29884,
+      "sha256": "1810d55c49d182d2fb5d730689a04f9ab37d20544ddcbb901d8594c56f95675f"
+    },
+    {
+      "file": "wanted-sans-variable-030.woff2",
+      "bytes": 29180,
+      "sha256": "85a99fa659adf6538c3863c4721966cbf039cae9837db663cd08cfdca8d096da"
+    },
+    {
+      "file": "wanted-sans-variable-031.woff2",
+      "bytes": 32000,
+      "sha256": "9a214d1181198edcda56fa05d4b87f75caa3dd086de0dd43c888e2f8d8d6499d"
+    },
+    {
+      "file": "wanted-sans-variable-032.woff2",
+      "bytes": 30896,
+      "sha256": "08ed5f074b51b94a15216f3c7a16356529e50a2f4a0621a1d4c05234f3fd8bf6"
+    },
+    {
+      "file": "wanted-sans-variable-033.woff2",
+      "bytes": 27112,
+      "sha256": "3221af8f3e4c85448f8dc71254858627c0ceb15fddc240cdffc8267461a3d9bf"
+    },
+    {
+      "file": "wanted-sans-variable-034.woff2",
+      "bytes": 26740,
+      "sha256": "6f12af906903b9995fab27c261b063c590bef076b91d4d0148843c6e251e44eb"
+    },
+    {
+      "file": "wanted-sans-variable-035.woff2",
+      "bytes": 27136,
+      "sha256": "fc71996461e8a6ed5e25ebeb4ba38d0a48c047adfa6390b74bbf8bdb0729d411"
+    },
+    {
+      "file": "wanted-sans-variable-036.woff2",
+      "bytes": 26716,
+      "sha256": "38cd8f77ada27a10f67b3a0314f607fcc2bc1d4ef264fe1248c06139d5789dbe"
+    },
+    {
+      "file": "wanted-sans-variable-037.woff2",
+      "bytes": 22176,
+      "sha256": "7893f80c9a4a9b3b03d9fe7c1c28b9a4d275a7492feb644c4c7790c502dba2f6"
+    },
+    {
+      "file": "wanted-sans-variable-038.woff2",
+      "bytes": 26984,
+      "sha256": "bc968ab104880311b7699cd3505c6a11d9a94da7cc41f58605c1d710a1deb0dc"
+    },
+    {
+      "file": "wanted-sans-variable-039.woff2",
+      "bytes": 26596,
+      "sha256": "7b8a02e880c10eb1a408ab8f8f1ce2247f969df49452afcfa5000428a5a01eba"
+    },
+    {
+      "file": "wanted-sans-variable-040.woff2",
+      "bytes": 23068,
+      "sha256": "ff86db1d62ad5c077fcb61f1570aee6e646bf1c3248006e61bbd0f24941b1905"
+    },
+    {
+      "file": "wanted-sans-variable-041.woff2",
+      "bytes": 25656,
+      "sha256": "528a99293b0d0668b681322a0361678d39f57916ec7f234d7799b6d2842e414a"
+    },
+    {
+      "file": "wanted-sans-variable-042.woff2",
+      "bytes": 27204,
+      "sha256": "56d3f760d41e86a8316ef3b5a478ace1baf18b71fe3fff3f8332453877737e09"
+    },
+    {
+      "file": "wanted-sans-variable-043.woff2",
+      "bytes": 23592,
+      "sha256": "2018d913fe7dd64fcdc5d25b2e0104f2ef79496a77cfc4976df14f63a677f5df"
+    },
+    {
+      "file": "wanted-sans-variable-044.woff2",
+      "bytes": 25272,
+      "sha256": "869d76d6d77517e47baa7a03bba411bd411c4a5f56571b8f0132ceb251d003cb"
+    },
+    {
+      "file": "wanted-sans-variable-045.woff2",
+      "bytes": 27200,
+      "sha256": "40a53dc63c0239ade97ba4f68e122b9dddf53df50c039d64dc36a23f7a8f7259"
+    },
+    {
+      "file": "wanted-sans-variable-046.woff2",
+      "bytes": 27964,
+      "sha256": "015574ccfc1fd75f8bcab40e7372626bb74e662843243b15b796df5a4c85027d"
+    },
+    {
+      "file": "wanted-sans-variable-047.woff2",
+      "bytes": 27876,
+      "sha256": "2a5400c2dd845ce9c9d31a7b9699d8414a2f666df2f6f56c7f7a1b9746226c9e"
+    },
+    {
+      "file": "wanted-sans-variable-048.woff2",
+      "bytes": 28960,
+      "sha256": "d4c016dcbdabe87fa93be9063d2e69f19f083e146a2a4a8b2594433bafce35af"
+    },
+    {
+      "file": "wanted-sans-variable-049.woff2",
+      "bytes": 27720,
+      "sha256": "eabb99a5851c6bbcdf27844ed33b89417d112c4699ad737531dbb8b6197c6c9b"
+    },
+    {
+      "file": "wanted-sans-variable-050.woff2",
+      "bytes": 25168,
+      "sha256": "84b2d50ca26fb224b20efcc07ca7bf440ce9d18d4df555b20bbfbc5e815b405c"
+    },
+    {
+      "file": "wanted-sans-variable-051.woff2",
+      "bytes": 27712,
+      "sha256": "7b9ac4d60f3e2fa4a3d5ec636b9b75cbfe3d852964974c8d5c374f77c481f533"
+    },
+    {
+      "file": "wanted-sans-variable-052.woff2",
+      "bytes": 27140,
+      "sha256": "48dac3249514f1f81c1f0b167f4da3f7c1279f5168a3debd563076c805e40ed5"
+    },
+    {
+      "file": "wanted-sans-variable-053.woff2",
+      "bytes": 26732,
+      "sha256": "2bd34112e2efeb8b0b6d3ef5090e86def5c31db7fdcb06a6493e716d665a0bd7"
+    },
+    {
+      "file": "wanted-sans-variable-054.woff2",
+      "bytes": 26044,
+      "sha256": "afd0351d11820cfc6c9c382a137f67f905b0befbd62e6189c605b1135b9b6516"
+    },
+    {
+      "file": "wanted-sans-variable-055.woff2",
+      "bytes": 27016,
+      "sha256": "d9478b10bb5454babe09621c9e76e75b9cfb73bd094226a452c421e63fad3fa9"
+    },
+    {
+      "file": "wanted-sans-variable-056.woff2",
+      "bytes": 27108,
+      "sha256": "2673f7593142db2ff684db1dcf4414c61a9fa68c20c2abb1e544d041989f50f4"
+    },
+    {
+      "file": "wanted-sans-variable-057.woff2",
+      "bytes": 28072,
+      "sha256": "c4a0cc8c9ba16c323d67cca1f67521599a634ecccc5d88aaf40ce444bf08c50b"
+    },
+    {
+      "file": "wanted-sans-variable-058.woff2",
+      "bytes": 31692,
+      "sha256": "6c96f7a85339bdfb35f9655e37ef785f97e2a50e62175cf8ff7eba5c10a9057e"
+    },
+    {
+      "file": "wanted-sans-variable-059.woff2",
+      "bytes": 29852,
+      "sha256": "2adca1c2a05db71d9d6e8af490c046ccfb6f1df89c119a56407a6225ab90dee5"
+    },
+    {
+      "file": "wanted-sans-variable-060.woff2",
+      "bytes": 29156,
+      "sha256": "f0dd54d88165fdd291cb3ff2059503b5250af7cb4595a294b575be1a579c1753"
+    },
+    {
+      "file": "wanted-sans-variable-061.woff2",
+      "bytes": 27928,
+      "sha256": "9ccdf38cb4db43c1e2a6e727a0f863101da3d664ada0efd784ec2fcf203438bd"
+    },
+    {
+      "file": "wanted-sans-variable-062.woff2",
+      "bytes": 26956,
+      "sha256": "5fb27d9ac1283d4982f53c7cd5b90ba57c537ec5477b2db0863d95f5708d28d4"
+    },
+    {
+      "file": "wanted-sans-variable-063.woff2",
+      "bytes": 23252,
+      "sha256": "3c67dffd51bec491ca19c137a5e93b3cc0cdbfee704232b86cc24c802c54e214"
+    },
+    {
+      "file": "wanted-sans-variable-064.woff2",
+      "bytes": 8044,
+      "sha256": "3ac174b5c80cd180b4d625a350e4507a21a469bc61d82c8b2c5edbda4c97c7de"
+    },
+    {
+      "file": "wanted-sans-variable-065.woff2",
+      "bytes": 6892,
+      "sha256": "ee79843d6563bb1ddd32c986a5347f530e36c69c624dd7929226137b34735803"
+    },
+    {
+      "file": "wanted-sans-variable-066.woff2",
+      "bytes": 4852,
+      "sha256": "5f54af25100ba181efe686ee6a737c3e89d29523cd9352ff43606edfc12c0290"
+    },
+    {
+      "file": "wanted-sans-variable-067.woff2",
+      "bytes": 11880,
+      "sha256": "51988dcba06f591b46ead84cdd40e4cac2383991f525c9f0aeed9dc25720ccd9"
+    },
+    {
+      "file": "wanted-sans-variable-068.woff2",
+      "bytes": 4964,
+      "sha256": "dcf395b1ff1715be890925abe19b6337f2fc4e6d619f394a64a7d1af89210ab5"
+    },
+    {
+      "file": "wanted-sans-variable-069.woff2",
+      "bytes": 5640,
+      "sha256": "c73854daaefb5525a0469739ee0c27ec98a0d3c59717c57018f4a296bc7336c8"
+    },
+    {
+      "file": "wanted-sans-variable-070.woff2",
+      "bytes": 20072,
+      "sha256": "680f048b0731500d7495c63731223a2eec756f06e931276326610e6a213cd500"
+    },
+    {
+      "file": "wanted-sans-variable-071.woff2",
+      "bytes": 12612,
+      "sha256": "13daaddfefa114072f1ff875806d22b82e404c7182d5eef56c88e86a4107f569"
+    },
+    {
+      "file": "wanted-sans-variable-072.woff2",
+      "bytes": 12420,
+      "sha256": "a152823439a6f91a1bfe5fb758482f8a69669a3b5e60fc1a265fdaf2202e9bcf"
+    },
+    {
+      "file": "wanted-sans-variable-073.woff2",
+      "bytes": 13356,
+      "sha256": "24e41c6a0e1f3079ee87fa0492515ff9f6db8f4a0c5ca3e817a9e59dbbf93042"
+    },
+    {
+      "file": "wanted-sans-variable-074.woff2",
+      "bytes": 13412,
+      "sha256": "9b4a950731851389095ce91cddaa645175eb9b82cf81403d3d65da3d2f472e86"
+    },
+    {
+      "file": "wanted-sans-variable-075.woff2",
+      "bytes": 14412,
+      "sha256": "1122dd5c0d24801a0c54afdf524e93b246557518e13dd9f81f47e686d0c1de3a"
+    },
+    {
+      "file": "wanted-sans-variable-076.woff2",
+      "bytes": 16056,
+      "sha256": "b131425bf4f7234a3f59385e666d1af6a70d80b2b303dade4bced864d4358efe"
+    },
+    {
+      "file": "wanted-sans-variable-077.woff2",
+      "bytes": 17700,
+      "sha256": "a0c8434b4f8b9cace1a116d5a13854db563730cc01667184d42870059368221b"
+    },
+    {
+      "file": "wanted-sans-variable-078.woff2",
+      "bytes": 18680,
+      "sha256": "cc21491d0d63cd39819f7daa64e3a7facd02591f00f99882acc040e3e0561695"
+    },
+    {
+      "file": "wanted-sans-variable-079.woff2",
+      "bytes": 19892,
+      "sha256": "c811188f7e04e22e38054c94d0e60c81ec42e256d5650e69cb4c79ebf885b4ea"
+    },
+    {
+      "file": "wanted-sans-variable-080.woff2",
+      "bytes": 20396,
+      "sha256": "3297ce98d61c44e210d779fa3c3a600300f39c0994651a5ce778dcb7a0dfa05d"
+    },
+    {
+      "file": "wanted-sans-variable-081.woff2",
+      "bytes": 20504,
+      "sha256": "70ad26da46918a96a8deba9355b8d37aaa129d5df81fc95a2ea1b95fa5cd0580"
+    },
+    {
+      "file": "wanted-sans-variable-082.woff2",
+      "bytes": 20328,
+      "sha256": "3b0636bb26850459e6acf115cb074d7c5f888d8bdec7dbf66e8e1030489c1e98"
+    },
+    {
+      "file": "wanted-sans-variable-083.woff2",
+      "bytes": 19892,
+      "sha256": "091c86ebeb368ffcbfc1f54e59d44b8ae19348503886d69e63b5eef59076930b"
+    },
+    {
+      "file": "wanted-sans-variable-084.woff2",
+      "bytes": 20348,
+      "sha256": "557f60b8298bc7c7afadb942e1234c09e27f63830923932d807d25e89fdb33bb"
+    },
+    {
+      "file": "wanted-sans-variable-085.woff2",
+      "bytes": 19728,
+      "sha256": "b8c22da46377ffae6d080f9a1f1b9b0c6e422e8d141698252f87d8d2dcc2b26f"
+    },
+    {
+      "file": "wanted-sans-variable-086.woff2",
+      "bytes": 19516,
+      "sha256": "b3db632f50a9492a646b5586e93ba39099b27307c538e9e4afd278ce3ac0b4cb"
+    },
+    {
+      "file": "wanted-sans-variable-087.woff2",
+      "bytes": 19264,
+      "sha256": "91359a377829858701f0a8452c1c32d4eed1f4c858d05c1a38de0441e2c3934d"
+    },
+    {
+      "file": "wanted-sans-variable-088.woff2",
+      "bytes": 18228,
+      "sha256": "ac858fbff0a5bd76cb17304dc6ddf5c80a87c3157f2d91e2e7833a2bc30fd49d"
+    },
+    {
+      "file": "wanted-sans-variable-089.woff2",
+      "bytes": 18888,
+      "sha256": "c21a08a79f9dfb4592dca6b26893cf4d1d47b55db166307e9ad566be472fa1d9"
+    },
+    {
+      "file": "wanted-sans-variable-090.woff2",
+      "bytes": 21272,
+      "sha256": "f6119fe260e6ac7eb275a1ae1f9c3958d0355cfad44e9c915650317b164bf10e"
+    },
+    {
+      "file": "wanted-sans-variable-091.woff2",
+      "bytes": 44608,
+      "sha256": "0b3a7330f9b27ab91d5b450fa25f994bc88288973b80c70120bb906cf65a4d4f"
+    },
+    {
+      "file": "wanted-sans-variable-092.woff2",
+      "bytes": 12196,
+      "sha256": "d15b3c073efc8cd83ebeaa6922b730f256af4843f5ce9c55db90d0f7b23bddbe"
+    }
+  ]
+}
